@@ -1,5 +1,32 @@
+ul,a{
+    text-decoration: none;
+    list-style: none;
+}
+
+/* header{} */
+
 .container{
     max-width: 1220px;
     padding: 0 16px;
     margin: 0 auto;
 }
+
+/* .header__container{} */
+
+/* .header{} */
+
+/* .header__logo-silka{} */
+
+.logo{
+    width: 140px;
+    height: 41px;
+}
+
+.header__list{
+    display: flex;
+    
+}
+
+/* .header__item{} */
+
+/* .header__silka{} */
