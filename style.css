@@ -11,7 +11,7 @@
 .hero__container {
     display: flex;
     align-items: center;
-    gap: 109px;
+    gap: 89px;
 }
 
 .hero__box {
@@ -49,4 +49,9 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 60px;
+}
+
+.hero__img{
+    width: 693px;
+    height: 598px;
 }
