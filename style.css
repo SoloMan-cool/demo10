@@ -43,7 +43,7 @@ ul,a{
 .hero__container {
     display: flex;
     align-items: center;
-    gap: 109px;
+    gap: 89px;
 }
 
 .hero__box {
@@ -82,4 +82,3 @@ ul,a{
     font-weight: 700;
     line-height: 60px;
 }
->>>>>>> c3c5b1bd82e1ce9af6de531d6988ea394f6cb8b9
